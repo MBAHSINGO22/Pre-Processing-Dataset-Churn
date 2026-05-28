@@ -1,7 +1,7 @@
 <h1 align="center">Data Preprocessing using Python</h1>
 
 <p align="center">
-  Project preprocessing data menggunakan Python untuk persiapan analisis data dan machine learning
+  Project preprocessing data menggunakan Python untuk persiapan analisis data di Power BI
 </p>
 
 <p align="center">
@@ -80,7 +80,7 @@ project-folder/
 <p>Clone repository:</p>
 
 <pre>
-git clone https://github.com/username/nama-repository.git
+git clone https://github.com/MBAHSINGO22/Pre-Processing-Dataset-Churn.git
 </pre>
 
 <p>Masuk ke folder project:</p>
