@@ -134,18 +134,6 @@ scaled_data = scaler.fit_transform(data)
 
 <hr>
 
-<h2>📈 Pengembangan Selanjutnya</h2>
-
-<ul>
-  <li>Automasi preprocessing dataset</li>
-  <li>Integrasi pipeline machine learning</li>
-  <li>Visualisasi kualitas data</li>
-  <li>Feature engineering lanjutan</li>
-  <li>Deployment preprocessing pipeline</li>
-</ul>
-
-<hr>
-
 <h2>👨‍💻 Author</h2>
 
 <p>
