@@ -1,0 +1,5 @@
+Customer_ID,Churn_Prob,Recomendations
+C001,1.0,Voucher 25%
+C018,1.0,Voucher 25%
+C016,0.93,Voucher 25%
+C002,0.0,No Action
